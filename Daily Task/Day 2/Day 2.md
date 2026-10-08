@@ -80,7 +80,7 @@ Created `Constants.java` to store business rules and avoid magic numbers.
 
 \- Day 2 Java files created
 
-\- `.gitignore` configured
+\- `../../.gitignore` configured
 
 \- Build artifacts excluded
 
