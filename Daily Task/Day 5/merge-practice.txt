@@ -1,1 +1,2 @@
 Payment method: UPI
+Payment method: CARD
